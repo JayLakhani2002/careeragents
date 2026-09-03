@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Upstream project (career-ops)
+    url: https://github.com/career-ops-hq/career-ops
+    about: careeragents is a fork of career-ops by @santifer. For questions about the original project, go upstream.
+  - name: "📤 Never file scan results or reports here"
+    url: https://github.com/JayLakhani2002/careeragents/blob/main/DATA_CONTRACT.md
+    about: Your scans, CV and reports stay local (data/ + reports/). They contain personal data and would become public.

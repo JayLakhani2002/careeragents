@@ -1,0 +1,16 @@
+careeragents
+Copyright (c) 2026 Jay Lakhani
+
+This product is a fork of career-ops
+  https://github.com/career-ops-hq/career-ops
+  Copyright (c) 2026 Santiago Fernández de Valderrama
+  Licensed under the MIT License.
+
+The original career-ops MIT license text is retained in LICENSE and applies to
+all code inherited from the upstream project. Modifications made in this fork
+are likewise MIT licensed.
+
+"career-ops" is a trademark of Santiago Fernández de Valderrama and is used
+here solely to describe this project's origin and lineage, as permitted by the
+upstream trademark policy. This fork is not affiliated with, endorsed by, or
+supported by the career-ops project or its maintainers.

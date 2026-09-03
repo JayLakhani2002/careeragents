@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use careeragents, please cite it — and cite the upstream career-ops project it is derived from."
+title: "careeragents: Multi-Agent Job Search Pipeline"
+type: software
+authors:
+  - family-names: "Lakhani"
+    given-names: "Jay"
+    website: "https://github.com/JayLakhani2002"
+repository-code: "https://github.com/JayLakhani2002/careeragents"
+license: MIT
+keywords:
+  - ai
+  - job-search
+  - agents
+  - career
+  - automation
+  - llmops
+references:
+  - type: software
+    title: "Career-Ops: AI-Powered Job Search Pipeline"
+    authors:
+      - family-names: "Fernández de Valderrama"
+        given-names: "Santiago"
+        website: "https://santifer.io"
+    repository-code: "https://github.com/career-ops-hq/career-ops"
+    license: MIT
+    notes: "Upstream project that careeragents is forked from."
